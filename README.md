@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/Josh](https://www.linkedin.com/in/dustin-tse-052a8b330/
