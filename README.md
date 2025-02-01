@@ -11,11 +11,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Dustin-tse/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/dustin_.tze/
 [linkedin]: https://www.linkedin.com/in/dustin-tse-052a8b330?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B83hnU1UzREWXV621kXA2YQ%3D%3D
